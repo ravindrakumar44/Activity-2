@@ -1,0 +1,75 @@
+.activity{
+    
+    height:150px;
+    background-color: rgb(111, 202, 111);
+    text-align: center;
+    color:white;
+    padding-top: 10px;
+}
+
+.activity h3{
+    display: inline;
+    margin:20px;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card1{
+    height:150px;
+    width:400px;
+    border:2px solid black;
+    margin:20px;
+    border-radius: 10px; 
+    box-shadow: 2px 2px 5px grey;
+}
+
+.card2{
+    height:150px;
+    width:400px;
+    border:2px solid black;
+    margin:20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.card3{
+    height:150px;
+    width:400px;
+    border:2px solid black;
+    margin:20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.card1 h2{
+    text-align: center;
+    color:rgb(111, 202, 111);
+}
+
+.card2 h2{
+    text-align: center;
+    color:rgb(111, 202, 111);
+}
+
+.card3 h2{
+    text-align: center;
+    color:rgb(111, 202, 111);
+}
+
+h4{
+    height:50px;
+    background-color: grey;
+    margin:20px;
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 500px;
+    
+}
+
+a{
+    color:rgb(111, 202, 111);  
+}
